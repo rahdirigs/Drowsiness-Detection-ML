@@ -1,0 +1,2 @@
+Max accuracy: 0.7634514435695539
+k-value: 56

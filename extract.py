@@ -56,7 +56,7 @@ data = []
 labels = []
 
 while True:
-    print("New video ?")
+    print("New video?")
     option = int(input())
     if option == 1:
         print("Enter details:")
